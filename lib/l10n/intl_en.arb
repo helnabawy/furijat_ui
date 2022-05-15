@@ -1,0 +1,11 @@
+{
+  "locale": "en",
+  "homeTitle": "Check Furijat Bills",
+  "thisServiceisFromForijat": "This service helps you to check Forijat Bills",
+  "billNumber": "Bill Number",
+  "enterBillNumber": "enter bill number",
+  "youHavetoEnterBillNumber": "You have to enter bill number",
+  "check": "Check",
+  "newCheck": "New Check",
+  "furijatBills": "Furijat Bills"
+}

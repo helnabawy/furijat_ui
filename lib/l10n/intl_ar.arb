@@ -1,0 +1,11 @@
+{
+  "locale": "ar",
+   "homeTitle": "  التحقق من فواتير فرجت",
+   "thisServiceisFromForijat": " هذه الخدمة تساعدك على التحقق من فواتير مبادرة فرجت ",
+  "billNumber": "رقم الفاتورة",
+  "enterBillNumber": "أدخل رقم الفاتورة",
+  "youHavetoEnterBillNumber": "يجب ان يتم ادخال رقم الفاتورة",
+  "check": "تحقق",
+  "newCheck": "تحقق جديد",
+  "furijatBills": "فواتير فرجت"
+}
